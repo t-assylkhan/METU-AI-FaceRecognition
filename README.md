@@ -29,7 +29,7 @@ This project is being developed in three sprints:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/YOUR_USERNAME/METU-AI-FaceRecognition.git
+   git clone https://github.com/t-assylkhan/METU-AI-FaceRecognition.git
    cd METU-AI-FaceRecognition
    ```
 
