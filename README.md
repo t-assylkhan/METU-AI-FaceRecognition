@@ -29,8 +29,8 @@ This project is being developed in three sprints:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/t-assylkhan/METU-AI-FaceRecognition.git
-   cd face-recognition-project
+   git clone https://github.com/YOUR_USERNAME/METU-AI-FaceRecognition.git
+   cd METU-AI-FaceRecognition
    ```
 
 2. Install required packages:
@@ -55,7 +55,7 @@ This project is being developed in three sprints:
 ## Project Structure
 
 ```
-face-recognition-project/
+METU-AI-FaceRecognition/
 ├── face_recognition.py   # Main script for face detection and alignment
 ├── download_models.py    # Helper script to download required model files
 └── .gitignore            # Specifies files to exclude from Git
@@ -77,7 +77,3 @@ face-recognition-project/
 
 - If you encounter "Error: Could not open camera", make sure your webcam is properly connected and not being used by another application.
 - If you get "Error loading face predictor", ensure your internet connection is working for automatic download of the shape predictor file.
-
-## License
-
-[Specify your license information here]
